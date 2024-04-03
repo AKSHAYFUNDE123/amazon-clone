@@ -1,0 +1,1124 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.nav {
+   height: 70px;
+   width: 100%;
+   display: flex;
+   background-color: #0f1111;
+   color: white;
+   align-items: center;
+ }
+ .outer {
+   height: 40px;
+   width: 140px;
+   padding-top: 20px;
+   align-items: center;
+   justify-content: center;
+   padding-left: 5px;
+   padding-right: 5px;
+ }
+ .logo1 {
+   background-image: url("logo_1png-removebg-preview.png");
+   background-size: cover;
+   height: 30px;
+   width: 100%;
+ }
+ .border {
+   border: 2.5px solid transparent;
+ }
+ .border:hover {
+   border: 1.5px solid white;
+ }
+ 
+ /*logo 2*/
+ .logo2 {
+   height: 25px;
+   width: 175px;
+   margin-left: 8px;
+   margin :14px 0px 14px 0px;
+   padding-top: 10px;
+   padding-bottom: 22px;
+ }
+ #unblock {
+   margin:0px 0px 0px 0px;
+   position:absolute;
+   left: 180px;
+   font-size: 13px;
+   color: #cccccc;
+ }
+ .block {
+   padding-left: 5px;
+   display: inline;
+   font-size: 19px;
+   
+ }
+ 
+ /*search box*/
+ 
+ /*option*/
+ .box {
+   height: 60px;
+   width: 500px;
+   display: flex;
+ }
+ .select {
+   border-top-left-radius: 5px;
+   border-bottom-left-radius: 5px;
+   background-color: #e6e6e6;
+   border: none;
+   transform: translatex(4px);
+   margin-left: 10px;
+   margin-top: 5px;
+   height: 45px;
+   width: 55px;
+   align-items: center;
+ }
+ /* input*/
+ .input {
+   margin-left: 0px;
+   border: none;
+   height: 45px;
+   width: 350px;
+ }
+ 
+ /*searchicon*/
+ .searchicon {
+   color: black;
+   border: none;
+   margin-top: 5px;
+   height: 27.2px;
+   width: 40px;
+   background-color: #febd68;
+   text-align: center;
+   padding-top: 18px;
+   border-top-right-radius: 5px;
+   border-bottom-right-radius: 5px;
+ }
+ /*india*/
+ .india {
+   height: 45px;
+   width: 35px;
+   position:absolute;
+   left: 800px;
+   padding-bottom: 15px;
+   padding-right: 8px;
+ }
+ .scroll {
+   height: 30px;
+   width: 30px;
+   background: none;
+   border: none;
+   color: white;
+   margin-top: 20px;
+   margin-left: 10px;
+ }
+ /*logo 3*/
+ .logo3 {
+   height: 42px;
+   width: 110px;
+   padding-top: 15px;
+   padding-bottom: 0px;
+   padding-left: 15px;
+   margin-left: 4px;
+ }
+ 
+ /* logo4 */
+ 
+ .logo4 {
+   height: 55px;
+   width: 110px;
+   padding-bottom: 0px; 
+ }
+ .logo4under{
+  margin: 0px 0px 0px 0px;
+  position: absolute;
+  left: 1000px;
+  top: 21px;
+ }
+ /* logo5 */
+ .logo5 {
+   height: 55px;
+   width: 90px;
+   margin-top: 40px;
+   font-size: 50px;
+   display: flex;
+   position: relative;
+   left: 24px;
+   bottom: 20px;
+ }
+ 
+ .cart {
+   color: white;
+   font-size: 1rem;
+   position: relative;
+   top: 30px;
+
+ }
+ /*Panal*/
+ 
+ .panal {
+   height: 41px;
+   width: 100%;
+   background-color: #222f3d;
+   color: white;
+   display: flex;
+ }
+ /* panal1 */
+ .panal1 {
+   height: 33px;
+   width: 66px;
+   font-size: 20px;
+   padding-left: 5px;
+   justify-content: center;
+   padding-top: 4px;
+ }
+ /* panal2 */
+ .panal2 {
+   height: 31px;
+   width: 141px;
+   color: white;
+   padding-left: 5px;
+   padding-top: 6px;
+ }
+ /*panal3*/
+ .panal3 {
+   height: 31px;
+   width: 38px;
+   padding-left: 5px;
+   padding-top: 6px;
+ }
+ /* panal4  */
+ .panal4 {
+   height: 31px;
+   width: 66px;
+   padding-top: 6px;
+ }
+ /* panal5  */
+ .panal5 {
+   height: 31px;
+   width: 80px;
+   padding-top: 6px;
+   padding-left: 7px;
+ }
+ /*panal6*/
+ .panal6 {
+   height: 31px;
+   width: 68px;
+   padding-top: 6px;
+   padding-left: 6px;
+ }
+ /*panal7*/
+ .panal7 {
+   height: 31px;
+   width: 150px;
+   padding-top: 6px;
+   padding-left: 6px;
+ }
+ /*panal8*/
+ .panal8 {
+   height: 31px;
+   width: 80px;
+   padding-left: 4px;
+   padding-top: 6px;
+ }
+ /*panal9*/
+ .panal9 {
+   height: 31px;
+   width: 48px;
+   padding-top: 6px;
+   padding-left: 6px;
+ }
+ /*panal10*/
+ .panal10 {
+   height: 31px;
+   width: 130px;
+   padding-top: 6px;
+ 
+   margin-left: 20px;
+ }
+ /*panal11*/
+ 
+ .panal11 {
+   height: 35px;
+   width: 370x;
+   margin-bottom: 10px;
+ }
+ 
+ /* herosection */
+ .herosection {
+   background-image: url("herosection.jpg");
+   background-size: cover;
+   height: 280px;
+ }
+ 
+ /* shoping box */
+ .shopping {
+   display: flex;
+   height: 335px;
+   width: 1207px;
+   background-image: url("background1.png");
+   background-size: cover;
+ }
+ .shoppingbox1 {
+   height: 325px;
+   width: 300px;
+   margin-left: 6px;
+   background-color: white;
+ }
+ .keep {
+   height: 20px;
+   width: 130px;
+   margin-top: 25px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ .undar1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("redmi\ note\ 12.jpg");
+   background-size: cover;
+ }
+ .undar2 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("keep\ shopping\ for\ \ aodio\ 2.jpg");
+   background-size: cover;
+ }
+ .undar3 {
+   height: 110px;
+   width: 130px;
+   margin-top: 30px;
+   display: inline-block;
+   margin-bottom: 30px;
+   margin: 7px;
+   background-image: url("keep\ shopping\ for\ lamp\ shades\ 3.jpg");
+   background-size: cover;
+ }
+ .undar4 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("keep\ shopping\ for\ floor\ lamp.jpg");
+   background-size: cover;
+ }
+ /* shoppingbox2 */
+ 
+ .shoppingbox2 {
+   height: 325px;
+   width: 300px;
+   margin-left: 8px;
+   background-color: white;
+ }
+ .shop2keep {
+   height: 20px;
+   width: 170px;
+   margin-top: 25px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ .shop2undar1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("sportsues1.jpeg");
+   background-size: cover;
+ }
+ .shop2undar2 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("Men_low2.jpg");
+   background-size: cover;
+ }
+ .shop2undar3 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("Heels_low3.jpeg");
+   background-size: cover;
+ }
+ .shop2undar4 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("HB_low4.jpeg");
+   background-size: cover;
+ }
+ 
+ /* shoppingbox3 */
+ 
+ .shoppingbox3 {
+   height: 325px;
+   width: 300px;
+   background-color: white;
+   margin-left: 8px;
+ }
+ .shop3keep {
+   height: 20px;
+   width: 170px;
+   margin-top: 25px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ .shop3undar1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("HomeD_light_QuadImageCard_1x_186x116._SY116_CB575416348_.jpg");
+   background-size: cover;
+ }
+ .shop3undar2 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("QC_PC_186x116_2_1._SY116_CB575535938_.jpg");
+   background-size: cover;
+ }
+ .shop3undar3 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("HomeDecor_DryFruit_QuadImageCard_1x_186X116._SY116_CB575267810_.jpg");
+   background-size: cover;
+ }
+ .shop3undar4 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("2_1x._SY116_CB575198763_.jpeg");
+   background-size: cover;
+ }
+ /* shoppingbox4 */
+ .shoppingbox4 {
+   height: 315px;
+   width: 260px;
+   margin-left: 8px;
+   background-color: white;
+ 
+   padding-bottom: 10px;
+ }
+ /* shoppingboxunder1 */
+ .shoppingboxunder1 {
+   height: 120px;
+   width: 260px;
+ }
+ .shop4keep {
+   height: 20px;
+   width: 170px;
+   margin-top: 25px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ #button {
+   background-color: yellow;
+   margin: 20px 40px 30px 30px;
+   height: 25px;
+   padding: 3px 35px 3px 35px;
+   width: 200px;
+   border: navajowhite;
+   border-radius: 7px;
+ }
+ #button:hover {
+   background-color: #cccccc;
+ }
+ 
+ /* shoppingboxunder2 */
+ 
+ .shoppingboxunder2 {
+   height: 160px;
+   width: 240px;
+   margin: 10px;
+   background-image: url("redmi.jpg");
+   background-size: cover;
+ }
+ 
+ /* shopping line 2 */
+ .shopping2 {
+   display: flex;
+   height: 345px;
+   width: 1207px;
+   background-color: #cccccc;
+ }
+ /* shopingboxsecond line 1 */
+ .shopingboxsecondline1 {
+   height: 342px;
+   width: 300px;
+   background-color: white;
+   margin-left: 6px;
+ }
+ .secondlinekeep1 {
+   height: 20px;
+   width: 190px;
+   margin-top: 15px;
+   margin-left: 8px;
+   font-weight: 700;
+   background-color: white;
+ }
+ .shopingboxsecondlineunder1 {
+   height: 270px;
+   width: 275px;
+   background-color: white;
+   margin: 18px 4px 0px 11px;
+   background-image: url("Headphone_v2_Desktop_Cat_card_1x._SY304_CB575149386_.jpg");
+   background-size: cover;
+ }
+ /* shopingboxsecondline 2 */
+ .shopingboxsecondline2 {
+   height: 342px;
+   width: 300px;
+   background-color: white;
+   margin-left: 8px;
+ }
+ .secondlinekeep2 {
+   height: 20px;
+   width: 190px;
+   margin-top: 15px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ .shopping2under1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 37px 7px 7px 7px;
+   background-image: url("Curtain.jpg");
+   background-size: cover;
+ }
+ .shopping2under2 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("floor\ lamp.jpg");
+   background-size: cover;
+ }
+ .shopping2under3 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("Under-Bed-Storage.jpg");
+   background-size: cover;
+ }
+ .shopping2under4 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 6px;
+   background-image: url("Showpieces.jpg");
+   background-size: cover;
+ }
+ 
+ /* shopingboxsecondline3 */
+ .shopingboxsecondline3 {
+   height: 342px;
+   width: 300px;
+   background-color: white;
+   margin-left: 6px;
+ }
+ .secondlinekeep3 {
+   height: 20px;
+   width: 190px;
+   margin-top: 15px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ 
+ .shopping3under1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("Showpieces.jpg");
+   background-size: cover;
+ }
+ .shopping3under1 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 37px 7px 7px 7px;
+   background-image: url("secundlinebox1.jpg");
+   background-size: cover;
+ }
+ .shopping3under2 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 37px 7px 7px 7px;
+   background-image: url("secundlinebox2.jpg");
+   background-size: cover;
+ }
+ .shopping3under3 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("secundlinebox3.jpg");
+   background-size: cover;
+ }
+ .shopping3under4 {
+   height: 110px;
+   width: 130px;
+   display: inline-block;
+   margin: 7px;
+   background-image: url("Accessories_2x._SY116_CB575417933_.jpg");
+   background-size: cover;
+ }
+ /* shopingboxsecondline4 */
+ .shopingboxsecondline4 {
+   height: 342px;
+   width: 260px;
+   background-color: white;
+   margin-left: 8px;
+ }
+ .secondlinekeep4 {
+   height: 20px;
+   width: 190px;
+   margin-top: 15px;
+   margin-left: 8px;
+   font-weight: 700;
+ }
+ .shopping4under1 {
+   height: 270px;
+   width: 240px;
+   background-color: white;
+   margin: 18px 4px 0px 11px;
+   background-image: url("secundlineboxmobile.jpg");
+   background-size: cover;
+ }
+ 
+ /* thardboxes */
+ .bigthardboxes {
+   height: 335px;
+   width: 1206px;
+   background-color: #cccccc;
+ }
+ .thardboxes {
+   height: 310px;
+   width: 1170px;
+   margin-top: 10px;
+   margin-left: 15px;
+   background-color: white;
+ }
+ .h2heading {
+   margin: 8px 0px 0px 10px;
+   display: inline-block;
+ }
+ .anchor {
+   text-decoration: none;
+   margin: 16px 0px 0px 10px;
+   color: #007185;
+ }
+ .colorhovar:hover{
+  color: red;
+  text-decoration: red underline;
+ }
+ /* thardboxesug */
+ .thardboxesug {
+   height: 185px;
+   width: 1135px;
+   margin: 10px 0px 0px 15px;
+   display: flex;
+   justify-content: space-between;
+ }
+ /* thardboxes1 */
+ .thardboxes1 {
+   height: 182px;
+   width: 182px;
+   margin: 0px 0px 0px 0px;
+   background-image: url("thardboxe1.jpg");
+ }
+ /* thardboxes2 */
+ .thardboxes2 {
+   height: 182px;
+   width: 182px;
+   margin: 0px 0px 0px 0px;
+   background-image: url("thardbox2.jpg");
+ }
+ /* thardboxes3 */
+ .thardboxes3 {
+   height: 182px;
+   width: 182px;
+   margin: 0px 0px 0px 0px;
+   background-image: url("thardbox3.jpg");
+ }
+ /* thardboxes4 */
+ .thardboxes4 {
+   height: 182px;
+   width: 182px;
+   margin: 0px 0px 0px 0px;
+   background-image: url("thardbox4.jpg");
+ }
+ /* thardboxes5 */
+ .thardboxes5 {
+   height: 182px;
+   width: 182px;
+   margin: 0px 0px 0px 0px;
+   background-image: url("thardbox5.jpg");
+ }
+ 
+ /* extra div*/
+ .extra1 {
+   height: 18px;
+   width: 150px;
+   margin-left: 17px;
+   display: flex;
+ }
+ /* price1 */
+ .price1 {
+   height: 18px;
+   width: 45px;
+   border-radius: 2px;
+   background-color: #cc0c39;
+ }
+ .para1 {
+   color: #ffffff;
+   font-size: small;
+ }
+ .text1 {
+   height: 16px;
+   width: 100px;
+   color: #cc0c39;
+   font-size: 10px;
+   margin-left: 20px;
+ }
+ 
+ /* extra1u */
+ .extra1u {
+   height: 22px;
+   width: 150px;
+   margin-left: 17px;
+ }
+ .headh2 {
+  font-size: 15px;
+   margin: 0px 0px 0px 0px;
+   position: relative;
+   bottom: 20px;
+   color: white;
+ }
+ .mrp {
+   color: rgba(0, 0, 0, 0.6);
+   display: inline;
+   position: relative;
+   top: 20px;
+ }
+ .linethrow {
+   display: inline;
+   text-decoration: line-through;
+   color: rgba(0, 0, 0, 0.6);
+   position: relative;
+   top: 20px;
+ }
+ .ricelightsforhomedecorection {
+   margin: 0px 0px 10px 17px;
+   color: black;
+   position: relative;
+   left: 7px;
+ }
+ /* thard boxes 2 box start */
+ .ak1{
+    
+    width: 182px;
+    height: 18px;
+    position: relative;
+    left: 1px;
+    bottom: 40px;
+    display: inline-block;
+    margin-left: 25px;
+ }
+ .aku{
+   height: 16px;
+   width:65px;
+   color: #ffffff;
+   font-size: small;
+   background-color: #cc0c39;
+   display: inline-block;
+   
+ }
+.aku1{
+  color: #cc0c39;
+  position: absolute;
+  left: 90px;
+  top: 0px;
+  font-size: 10px;
+}
+.Excitingoffersonlextonstringlight{
+  width: 250px;
+   position: absolute;
+   top: 55px;
+   right: 5px;
+   left: 0px;
+   font-size: 12px;
+   color: black;   
+  }
+  /* thard boxes 3 box start */
+  .aks1{
+    width: 182px;
+    height: 18px;
+    position: relative;
+    left: 26px;
+    bottom: 51px;
+    display: inline-block;
+    margin-left: 25px;
+  }
+  .aksu{
+    height: 17px;
+    width:70px;
+    color: #ffffff;
+    font-size:11px;
+    font-weight: 300;
+    background-color: #cc0c39;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+  }
+  .aksu1{
+    color: red;
+    font-size: 10px;
+    position: absolute;
+    left: 77px;
+    top: 5px;
+  }
+  .Amazingproduct{
+    position: absolute;
+    top: 55px;
+    color: black;
+  }
+  /* thard boxes 4 box start */
+  .aksh1{
+    width: 192px;
+    height: 18px;
+    
+  }
+  .akshu{
+    height: 17px;
+    width:20px;
+    color: #ffffff;
+    font-size:11px;
+    font-weight: 300;
+    background-color: #cc0c39;
+    display: inline-block;
+    position:absolute;
+    left: 748px;
+    top:1310px;
+  }
+  .akshu1{
+    color: red;
+    font-size: 12px;
+    position: absolute;
+    left: 778px;
+    top:1310px;
+  }
+  .crazydealsandstatusdoormat{
+    position: absolute;
+    left: 748px;
+    top:1370px;
+    font-size: 13px;
+    color: black;
+  }
+  /* thard boxes 5 box start  */
+  .aksha1{
+    width: 180px;
+    height: 18px;
+    position:relative;
+    left: 968px;
+    bottom: 94px;
+  }
+  .akshau{
+    height: 17px;
+    width:40px;
+    color: #ffffff;
+    font-size:11px;
+    font-weight: 300;
+    background-color: #cc0c39;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+  }
+  .akshua1{
+    color: red;
+    font-size: 12px;
+    position: absolute;
+    left: 60px;
+    top: 4px;
+  }
+  .mrp1{
+    color: rgba(0, 0, 0, 0.6);
+    display: inline;
+    position:relative;
+    top: 0px;
+    
+  }
+  .headh3{
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    top: 20px;
+  }
+  .linethrow1{
+    position: relative;
+    left: 110px;
+    bottom: 18px;
+    text-decoration: line-through;
+    opacity: 0.5;
+  }
+  .maind{
+      height: 20px;
+      width: 200px;
+      position: relative;
+      top: 13px;
+  }
+   /*  four box line strt */
+  .fourboxxes{
+    height: 280px;
+    width: 1205px;
+    background-color: #cccccc;
+  }
+  .fourboxxesu{
+    height: 270px;
+    width: 1178px;
+    margin: 10px 10px 10px 10px;
+    background-color: #ffffff;
+    
+  }
+  .heading{
+    margin-left: 10px;
+    display: inline-block;
+  }
+  .anc{
+    margin-left:10px ;
+    text-decoration: none;
+  }
+  .fourboxxesuu{
+    height: 240px;
+    width: 1176px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .fourboxxesu1{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("head1.jpg");
+    background-size:contain;
+  }
+  .fourboxxesu2{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("head2.jpg");
+    background-size:cover;
+  }
+  .fourboxxesu3{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("head3.jpg");
+    background-size:cover;
+  }
+  .fourboxxesu4{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("okokooo.jpg");
+    background-size:cover;
+  }
+  .fourboxxesu5{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("head5.jpg");
+    background-size:cover;
+  }
+  .fourboxxesu6{
+    height: 180px;
+    width: 180px;
+    margin-top: 5px;
+    background-image: url("head6.jpg");
+    background-size:cover;
+  }
+  /* start footar */
+  .footar{
+    height: 34px;
+    width: 641px;
+    background-color: #37475a;
+    color: #ffffff;
+    padding-left:564.5px;
+    padding-top:13px ;
+    
+  }
+  .changecolor:hover{
+    background-color: #37475a;
+    opacity: 0.9;
+  }
+  .footar:hover{
+     text-decoration: solid;
+  }
+  .footar1{
+    height:300px;
+    width: 1205px;
+    background-color:#222f3d;
+    display:flex;
+    justify-content: space-evenly;
+  }
+  .footbox1{
+      height: 180px;
+      width: 180px;
+      margin-top: 40px;
+      color: #ffffff;
+  }
+  .footbox1link a{
+    color: #DDDDDD;
+    text-decoration: none; 
+  }
+  /* One complet  */
+  .footbox2{
+    height: 180px;
+    width: 180px;
+    margin-top: 40px;
+    color: #ffffff;
+  }
+  .footbox3{
+    height: 210px;
+    width: 220px;
+    margin-top: 40px;
+    color: #ffffff;
+  }
+  .footbox4{
+    height: 180px;
+    width: 180px;
+    margin-top: 40px;
+    color: #ffffff;
+  }
+  /* Start footlin1 */
+  .footline2{
+      height:150px;
+      width: 1205px;
+      background-color:#222f3d;
+  }
+    .footarline1{
+      height: 40px;
+      width: 135px;
+      position: absolute;
+      left: 440px;
+      top: 2080px;
+      background-image: url("logo_1png-removebg-preview.png");
+      background-size: cover;
+    }
+    .selectbox{
+      height: 30px;
+      width: 110px;
+      background-color: #222f3d;
+      color: #ffffff;
+      position: absolute;
+      left: 660px;
+      top: 2080px;
+      border: navajowhite;
+      border: 1px solid white;
+    }
+    .selectbox:hover{
+      background-color:rgba(255,255,255, 0.5) ;
+      border: none;
+    }
+   .footarline1u{
+       height: 39px;
+       width: 830px;
+       position: relative;
+       left: 200px;
+       top: 80px;
+   }
+   .linking{
+    font-size: 11px;
+    color:#DDDDDD;
+    text-decoration: none;
+   }
+   /* secondlast */
+    .secondlast{
+      height: 270px;
+      width: 1205px;
+      background-color:#0f1111;   
+    }
+    .secondlastbox{
+      height: 56px;
+      width: 717px; 
+      margin-left: 180px; 
+      display: flex;
+      justify-content: space-between;
+      position: relative;
+      top: 30px;
+    }
+    .secondunder1{
+      height: 55px;
+      width: 100px;
+    }
+    .secondunder2{
+      height: 55px;
+      width: 160px;
+    }
+    #bold{
+      color: white;
+    }
+    .secondlastbox1{
+      height: 56px;
+      width: 872px;
+      margin-left: 180px; 
+      display: flex;
+      justify-content: space-between;
+      position: relative;
+      top: 40px;
+    }
+    .secondunder3{
+      height: 55px;
+      width: 130px;
+      margin-left: 5px;
+      position: relative;
+      right: 5px;
+     
+    }
+    .secondunder4{
+      height: 55px;
+      width: 220px;
+      position: relative;
+      right: 35px;
+     
+    }
+    /*  finalbox */
+      .finalbox{
+        height: 50px;
+        width: 420px;
+        position: relative;
+        left: 38%;
+        top: 70px;
+      }  
+     span{
+      position: relative;
+      left: 50px;
+      color: #DDDDDD;
+     }
+     .complited{
+      font-size: 15px;
+      color: #DDDDDD;
+      text-decoration: none;
+      }
+      .borderlook:hover{
+        text-decoration:underline;
+      }
+      .anc1{
+        font-size: 12px;
+        color: #DDDDDD;
+        text-decoration: none;
+      }
